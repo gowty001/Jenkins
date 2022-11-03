@@ -31,6 +31,7 @@ public class sample {
 
 		Runtime.getRuntime().exec("cmd /c taskkill /f /im excel.exe");
 		// String path = "C:\\WorqForce\\output\\Summarysheet.xlsx";
+		// String path = "C:\\WorqForce\\output\\Summarysheet.xlsx";
 		String filePath = "C:\\WorqForce\\output\\";
 		String fileName = "Summarysheet";
 		String extension = ".xlsx";
